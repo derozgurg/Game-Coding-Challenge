@@ -5,7 +5,14 @@ This project was created with typescript and webpack.
 in case you can't start the project. Please open game with link **below**. 
 ####http://admin.sectionpi.com/game/
 
-### Setup ###
+
+
+### Review Notes ###
+Before reviewing please take these notes into account. 
+
+1. I made this game configurable. I have only added 4 business types. If you want to add more business you can add into config.ts.
+2. I set only 3 managers due to time matter. But it is also configurable one can add more manager for other businesses.
+3. I made this project in difficult conditions (I have crazy baby twins and one of them has fever for days).
 
 #### NPM Install
 before start make sure if you install typescript and webpack.
@@ -37,6 +44,7 @@ npm run build
 
 
 #### How to play
+
 ![pixi.js logo](http://admin.sectionpi.com/tutorial.jpg) 
 
 #### Study Case
