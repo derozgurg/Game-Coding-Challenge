@@ -45,7 +45,7 @@ class Game {
             console.log('Game started...');
         }
 
-        if (gameProvider.state.managers) {
+        if (gameProvider.state.managers && gameProvider.state.managers.length > 0) {
             let totalIncome = 0;
             for (let manager of gameProvider.state.managers) {
                 for (let business of this.businesses) {
