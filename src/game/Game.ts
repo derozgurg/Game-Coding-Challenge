@@ -73,6 +73,8 @@ class Game {
                 doStart();
             });
             this.stage.addChild(welcomePanel);
+        }else{
+            doStart();
         }
     }
 
