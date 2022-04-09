@@ -22,7 +22,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "pixi.js": "^5.2.4",
     "pixi.js-legacy": "^5.2.4"
   }
